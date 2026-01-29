@@ -1,0 +1,5 @@
+﻿# Ignore Visual Studio Code workspace settings
+*.code-workspace
+
+# Ignore Editorconfig settings
+*.editorconfig
